@@ -113,7 +113,7 @@ button:not(:disabled):not(.disabled) {
 }
 
 .header-md {
-  font-size: 3rem;
+  font-size: clamp(2rem, 7vw, 3rem);
   letter-spacing: -2px;
 }
 
