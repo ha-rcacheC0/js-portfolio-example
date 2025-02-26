@@ -167,6 +167,10 @@
   color: #495fef;
 }
 
+.portfolio-filter-nav .filter-link.active:hover {
+  color: hsla(232, 84%, 61%, 0.607);
+}
+
 .portfolio-grid {
   display: flex;
   flex-wrap: wrap;
